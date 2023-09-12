@@ -15,7 +15,7 @@ Currently, I am working on the historical ordering of Korean morphemes in the pr
 |:--:|
 | In Sanjiazi (a.k.a. Ilan Boo), the village where the last Manchu speakers lived (Oct 2018)|
 
-Before starting the Ph.D. program at the University of Chicago, I completed my B.A. in linguistics and anthropology and M.A. in linguistics at Seoul National University. I have worked on Uilta (Manchu-Tungusic), Manchu (Manchu-Tungusic), and the Southwestern Korean dialect (Jeollabuk-do), which is his native language. I also translated The Little Prince into the Southwestern dialect of Korean as part of an attempt to revitalize it.
+Before starting the Ph.D. program at the University of Chicago, I completed my B.A. in linguistics and anthropology and M.A. in linguistics at Seoul National University. I have worked on Uilta (Manchu-Tungusic), Manchu (Manchu-Tungusic), and the Southwestern Korean dialect (Jeollabuk-do), which is my native language. I also translated The Little Prince into the Southwestern dialect of Korean as part of an attempt to revitalize it.
 
 # Updates
 * September 2023: I will be presenting my poster '[A Distributed Morphological approach to historical difference in the sequence of Korean suffix *-si*](https://drive.google.com/file/d/1irom1P9DaLLyCB75sZUn817MM8DuUFrn/view?usp=drive_link)' at [WAFL 17](http://visualizingcultures.mit.edu/wafl17/program.html), hosted by the Institute of Mongolian Studies. 
