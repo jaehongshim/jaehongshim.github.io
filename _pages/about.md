@@ -19,6 +19,6 @@ Before starting the Ph.D. program at the University of Chicago, I completed my B
 
 # Updates
 * August 23, 2024: I am going to present a section of my first qualifying paper under the same title, '[The Obligatoriness and Optionality in Korean Subject Honorification] [(Abstract)](../files/WAFL18_abstract.pdf) at [SICOGG26/WAFL18](https://sites.google.com/view/sicoggwafl2024/program?authuser=0).'
-* May 15, 2024: I defended my first qualifying paper '[The Obligatoriness and Optionality in Korean Subject Honorification](../file/Shim_QP1_20240515.pdf).'
+* May 15, 2024: I defended my first qualifying paper '[The Obligatoriness and Optionality in Korean Subject Honorification](../files/Shim_QP1_20240515.pdf).'
 * September 27, 2023: I presented my poster '[A Distributed Morphological approach to historical difference in the sequence of Korean suffix *-si*](../files/WAFL17_shim_poster_revised.pdf) [(Abstract)](https://drive.google.com/file/d/1irom1P9DaLLyCB75sZUn817MM8DuUFrn/view?usp=drive_link)' at [WAFL 17](http://visualizingcultures.mit.edu/wafl17/program.html), hosted by the Institute of Mongolian Studies. 
 * July 22, 2023: I presented my research '[A comparative study of the Korean nominalizer *-(u)m* and the participle categories in Altaic languages as matrix predicates](../files/Shim_SIAC2023_abstract.pdf)' at [SIAC 2023](http://hosting01.snu.ac.kr/~altai/askv001/?module=file&act=procFileDownload&file_srl=7443&sid=746f32387efa1617dbea0f020e067a03), hosted by the Altaic Society of Korea.
