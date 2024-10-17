@@ -10,11 +10,14 @@ redirect_from:
 {% include base_path %}
 
 * Syntax, Morphosyntax
+  * Distributed Morphology
+  * V-to-T raising in head-final languages
 * Historical linguistics
   * Diachronic morphosyntax
   * Insubordination
   * Grammaticalization
 * Korean Linguistics
+  * Honorification
 * Altaic languages
   * Manchu-Tungusic
   * Mongolic
