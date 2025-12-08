@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Linguistics Ph.D. student at the [University of Chicago](https://linguistics.uchicago.edu). I am interested in analyzing morphosyntactic changes in Korean, Manchu-Tungusic, and Mongolic languages and documenting them through field methods.
+I am a fourth year Linguistics Ph.D. student at the [University of Chicago](https://linguistics.uchicago.edu). I am interested in analyzing morphosyntactic changes in Korean, Manchu-Tungusic, and Mongolic languages.
 
-This academic year, I worked on the verb raising in Khalkha Mongolian using experimental methods. 
+This academic year, I am primarily focusing on my dissertation proposal, which investigates the morphosyntactic changes from Middle Korean (ca. 10th–16th century) to Modern Korean (beginning in the 17th century), situating the analysis within the framework of generative syntax.
 
-In the past years, I also worked on the historical ordering of Korean morphemes in the predicate morphology from the generative point of view and the insubordination of Korean nominalized clauses from the comparative point of view with neighboring Manchu-Tungusic and Mongolic languages. 
+
+In the past years, I also worked on the verb raising in Khalkha Mongolian using experimental methods and the insubordination of Korean nominalized clauses from the comparative point of view with neighboring Manchu-Tungusic and Mongolic languages. 
 
 | ![image](../images/profile_sanjiazi_201811cropped.jpeg) |
 |:--:|
