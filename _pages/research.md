@@ -14,15 +14,16 @@ redirect_from:
   * V-to-T raising in head-final languages
 * Historical linguistics
   * Diachronic morphosyntax
-  * Insubordination
+  <!-- * Insubordination -->
   * Grammaticalization
 * Korean Linguistics
   * Honorification
+  * Agreement
 * Altaic languages
   * Manchu-Tungusic
   * Mongolic
   * Turkic
-* Language documentation and fieldwork
+<!-- * Language documentation and fieldwork -->
 * Linguistic typology
 
 # Publications
