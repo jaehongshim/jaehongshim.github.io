@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Linguistics Ph.D. student at the [University of Chicago](https://linguistics.uchicago.edu). I am interested in analyzing morphosyntactic changes in Korean, Manchu-Tungusic, and Mongolic languages.
+I am a Ph.D. candidate in linguistics at the [University of Chicago](https://linguistics.uchicago.edu). I am interested in analyzing morphosyntactic changes in Korean, Manchu-Tungusic, and Mongolic languages.
 
-This academic year, I am primarily focusing on my dissertation proposal, which investigates the morphosyntactic changes from Middle Korean (ca. 10th–16th century) to Modern Korean (beginning in the 17th century), situating the analysis within the framework of generative syntax.
+This academic year, I started working on my dissertation titled `Grammaticalization as a Butterfly effect: a view from Korean', which investigates the morphosyntactic changes from Middle Korean (ca. 10th–16th century) to Modern Korean (beginning in the 17th century), situating the analysis within the framework of generative syntax.
 
 
 In the past years, I also worked on the verb raising in Khalkha Mongolian using experimental methods and the insubordination of Korean nominalized clauses from the comparative point of view with neighboring Manchu-Tungusic and Mongolic languages. 
@@ -22,7 +22,7 @@ In the past years, I also worked on the verb raising in Khalkha Mongolian using 
 Before starting the Ph.D. program at the University of Chicago, I completed my B.A. in linguistics and anthropology and M.A. in linguistics at Seoul National University. I have worked on Uilta (Manchu-Tungusic), Manchu (Manchu-Tungusic), and the Southwestern Korean dialect (Jeollabuk-do), which is my native language. I also translated The Little Prince into the Southwestern dialect of Korean as part of an attempt to revitalize it.
 
 # Updates
-* July 1, 2026: I will present a presentation with the title 'On the diachronic change of the Korean TAM marker *-te*: A case of post-syntax-induced language change' at the 19th Workshop on Altiac Formal Linguistics (WAFL 19) [(Website](https://sites.google.com/view/wafl19/home?authuser=0), [Program)](https://sites.google.com/view/wafl19/program?authuser=0).
+* July 1, 2026: I will present a presentation with the title '[On the diachronic change of the Korean TAM marker *-te*: A case of post-syntax-induced language change](../files/slides-2026-WAFL.pdf)' at the 19th Workshop on Altiac Formal Linguistics (WAFL 19) [(Website](https://sites.google.com/view/wafl19/home?authuser=0), [Program)](https://sites.google.com/view/wafl19/program?authuser=0).
 * May 18, 2026: I successfully completed my dissertation proposal and advanced to candidacy (Dissertation title: Grammaticalization as a Butterfly effect: a view from Korean).
 * May 1, 2026: I presented a poster under the title '[When Grammaticalization Causes Trouble: The Case of Korean TAM marker *-te*,](../files/BMW-poster_final.pdf) at [Boston Morphology Workshop](https://sites.google.com/view/bostonmorphologyworkshop/). 
 * December 6, 2025: I presented a presentation with the title '주체 존대 선어말어미 '-(으)시-'의 분포 변화에 대하여: 생성 문법적 접근 (On the Diachronic Change in the Distribution of the Korean Subject Honorific Suffix <i>(u)si</i>: from the Perspective of Generative Grammar, [abstract](../files/LSK25_abstract_ko.pdf), [abstract in English](../files/LSK25_abstract_en.pdf), [slides](../files/LSK2025_slides.pdf))' at the Linguistic Society of Korea 2025 Winter Conference [(Program)](../files/lsk25program.png).
